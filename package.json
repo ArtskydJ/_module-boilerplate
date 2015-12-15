@@ -1,8 +1,8 @@
 {
   "name": "",
-  "version": "0.0.1",
+  "version": "",
   "main": "./index.js",
-  "license": "VOL",
+  "license": "MIT",
   "author": {
     "name": "ArtskydJ",
     "email": "josephdykstra@gmail.com"

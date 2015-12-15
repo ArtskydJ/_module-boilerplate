@@ -33,4 +33,4 @@ With [npm](http://nodejs.org/download) do:
 
 # license
 
-[VOL](http://veryopenlicense.com)
+[MIT](http://opensource.org/licenses/mit)
